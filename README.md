@@ -1,6 +1,6 @@
 I'm currently a full-time high school student in the USA, but I make time for studying computer science in my down-time.
 
-Sec+ and CCNA holder, currently working on CCNP Security. 
+Security+, CCNA, and CCNP Security holder.
 
 The code for my website and a few of my other projects is available at [git.benhays.org](https://git.benhays.org)
 
