@@ -1,4 +1,4 @@
-I'm currently a full-time high school student in the USA, but I make time for studying computer science in my down-time.
+I'm currently a full-time high school student in the USA, but I study computer science and networking in my free-time.
 
 Security+, CCNA, and CCNP Security holder.
 
